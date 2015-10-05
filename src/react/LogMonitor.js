@@ -5,7 +5,7 @@ import * as themes from './themes';
 
 const styles = {
   container: {
-    fontFamily: 'monaco, Consolas, Lucida Console, monospace',
+    fontFamily: 'Inconsolata for Powerline, monaco, Consolas, Lucida Console, monospace',
     position: 'relative',
     overflowY: 'hidden',
     width: '100%',
